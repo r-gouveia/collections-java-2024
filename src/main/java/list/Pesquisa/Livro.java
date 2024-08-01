@@ -1,7 +1,7 @@
 package main.java.list.Pesquisa;
 
 public class Livro {
-    private String titulo;
+    private  String titulo;
     private String autor;
     private int anoPublicacao;
 
